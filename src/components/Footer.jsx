@@ -24,7 +24,7 @@ function Footer() {
           <a href="https://pattern-designer.vercel.app/" target="_blank" rel="noopener noreferrer">
            Pattern React.jsx Projects
           </a>
-          <a href="https://github.com/devhira22" target="_blank" rel="noopener noreferrer">
+          <a href="https://hoor-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
             Portfolio Website
           </a>
           <a href="https://punjab-medical-institute-pmi.vercel.app/" target="_blank" rel="noopener noreferrer">
